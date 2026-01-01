@@ -1,0 +1,12 @@
+# Escludi tutti i modelli pesanti
+models/*.gguf
+models/*/
+
+# Escludi file temporanei di Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Escludi file di sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+[
+  {
+    "Title": "MagicPrompt GPT2",
+    "Model": "Gustavosta/MagicPrompt-Stable-Diffusion",
+    "Tokenizer": "gpt2"
+  },
+  {
+    "Title": "Realism Engine",
+    "Model": "Ar4ikov/gpt2-medium-stable-diffusion-prompt-generator",
+    "Tokenizer": "gpt2"
+  }
+]
