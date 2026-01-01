@@ -6,7 +6,7 @@ Prompt generator with personal template locally
 
 While most prompt generators are stuck with old GPT-2 technology, this extension brings the power of modern Large Language Models (LLMs) like **Qwen 2.5**, **Llama 3**, and **Mistral** directly into your creative workflow. By supporting the **GGUF** format, it allows you to generate highly intelligent, descriptive, and context-aware prompts with minimal VRAM usage.
 
-![Preview](preview.png)
+![preview.png](https://github.com/SilentLuxRay/sd-forge-prompt-architect/blob/main/exemple/preview.png))
 
 ## ✨ Key Features
 
